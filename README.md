@@ -1,1 +1,1 @@
-# mssc-ssm
+# MSSC Spring State Machine
